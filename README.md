@@ -10,3 +10,4 @@ Run:
 python puzzle_video_capture.py
 ``
 
+Resulted video [here](https://drive.google.com/file/d/1WTP7tmAD4IAaOIqIpU-zEy59AeSDfig0/view?usp=sharing).
